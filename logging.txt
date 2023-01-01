@@ -1,0 +1,114 @@
+Request method:	POST
+Request URI:	https://fakerestapi.azurewebsites.net/api/v1/Books
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "id": "2",
+    "title": "string",
+    "description": "string",
+    "pageCount": "20",
+    "excerpt": "string",
+    "publishDate": "2022-12-26T04:47:07.360Z"
+}
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8; v=1.0
+Date: Tue, 27 Dec 2022 06:32:44 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+api-supported-versions: 1.0
+
+{
+    "id": 2,
+    "title": "string",
+    "description": "string",
+    "pageCount": 20,
+    "excerpt": "string",
+    "publishDate": "2022-12-26T04:47:07.36Z"
+}
+Request method:	GET
+Request URI:	https://fakerestapi.azurewebsites.net/api/v1/Books/2
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=2
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8; v=1.0
+Date: Tue, 27 Dec 2022 06:32:45 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+api-supported-versions: 1.0
+
+{
+    "id": 2,
+    "title": "Book 2",
+    "description": "Invidunt dignissim at at elit quis elitr facilisis sit commodo aliquyam feugait kasd et est no id. Ipsum voluptua accusam labore ea aliquyam dolore et eos labore. Ea et blandit amet clita diam elitr sed vero autem ut. At accusam eos magna tempor clita. Quis et assum at elitr kasd magna eirmod amet dolor sit diam in sed nonumy iusto vero esse takimata. Magna delenit elit rebum ut lorem ipsum stet sanctus sadipscing ipsum stet sit ea. Accusam takimata velit est consequat. Illum nonumy tincidunt molestie gubergren kasd lorem clita. Ut sed et liber et ullamcorper qui. Facilisi ipsum liber diam duis. Autem labore takimata rebum wisi takimata sit consetetur voluptua esse. Sea dolore erat tempor diam aliquyam diam lorem amet sed ipsum est.\n",
+    "pageCount": 200,
+    "excerpt": "Kasd nobis sanctus amet tempor laoreet at et no dolores esse kasd dolore justo sanctus odio aliquip dolores ea. Duo et magna rebum labore consetetur lorem velit consectetuer eros aliquyam ea justo nonumy dolores ut ipsum. Feugiat takimata takimata eos soluta sea et diam odio kasd soluta aliquyam.\nIpsum dolor delenit eleifend amet amet voluptua accumsan veniam stet nibh voluptua et et magna dolore sit vero accumsan. Et est et sed in dolor dolores nonumy accusam erat justo aliquip te stet eirmod iriure eirmod erat. Justo amet invidunt accusam sed labore nonummy erat sit in diam magna nulla lorem. Erat sadipscing sed magna facilisis. Voluptua eros erat amet et nonumy erat consetetur vero dolore tempor dolore adipiscing amet gubergren. Lorem nulla ea augue amet amet lorem veniam ut amet no lobortis magna eirmod ea erat illum vero amet. Elitr et diam ut justo sadipscing dolor adipiscing eirmod amet eros assum vel. Aliquip ut nonummy ullamcorper sit invidunt quis no sanctus rebum ut sed vero dolor takimata justo consetetur aliquyam clita. Option dolor nisl magna dignissim sadipscing molestie elitr et sea ipsum dolor nonumy tempor. Et aliquyam magna no esse nibh dolore sed tempor elitr dolore ut ipsum dolor ea no erat dolores. Takimata et nulla sit ut vero enim. Diam et consetetur dolor voluptua vel ipsum sed delenit. Illum eu dolor delenit eos nonumy sanctus euismod. Kasd amet amet te labore duis exerci et no diam soluta dolore esse duis accumsan elitr est at ut. Voluptua et et euismod aliquyam no sea ipsum lorem consetetur. Amet sadipscing justo. Dolor in amet et rebum qui nobis est. Imperdiet et nonumy commodo sit accusam.\nLorem sed sed invidunt elit ullamcorper consetetur quis dolor clita option justo vero consequat rebum. Ut dignissim consequat diam nonumy ut dolor dolore vero invidunt. Amet accumsan ipsum magna diam erat consequat vero tincidunt sadipscing. Dolores facer stet amet facilisis.\nEa dolore voluptua sadipscing vero lorem diam dolor clita dolor tempor wisi ipsum invidunt dolores commodo. Et tempor tempor iusto. Accusam ut dolores wisi est. Duo nihil esse duo no sed elitr lorem. At dolore et sit eos eum sadipscing voluptua. Ad lorem ipsum sed eos no aliquyam sit hendrerit amet. Erat et aliquyam iriure dolor no dolores lorem. Sadipscing euismod gubergren. Dolores et elit. No sit clita takimata dolore eros dolore sanctus te id. Sed magna erat sanctus facilisis at magna ut et takimata eum ea amet velit lorem stet iriure tempor blandit. Dolores sit eos aliquam ea ad et cum vero ex tempor odio dolor at. Est clita nostrud gubergren consectetuer ea ipsum accusam aliquam invidunt doming sadipscing dolore amet no kasd consetetur vero. Adipiscing justo ad rebum accusam voluptua sit nibh dolore voluptua at quod. Labore in vero option kasd dolores tempor et augue sit consequat sadipscing et amet sit gubergren nonumy. Ut eum vel stet consetetur ut erat. Rebum clita et aliquam. Vero no sanctus iriure erat labore ut consequat consectetuer diam ut. Est justo voluptua dolor lorem kasd sit no dolor.\nEx sanctus sanctus qui dolor amet stet dolores vulputate exerci et tation eu at duo. Velit tempor dolor facilisis sadipscing consectetuer molestie magna duo nonumy. Iusto tempor sed autem labore voluptua euismod dolor sit soluta erat magna no lorem eirmod. Et dolores dolore dolore at aliquip ut odio sea eos no at eirmod imperdiet dolore. Et erat wisi duo eos invidunt ut eros kasd dolores clita. Stet eu sit sadipscing sit labore suscipit amet blandit. Labore dolor sed aliquyam feugiat et. Exerci et sed gubergren et sit invidunt aliquip esse wisi eos kasd. Voluptua dolor sed consequat consetetur tempor erat blandit elitr sed gubergren et diam clita minim labore. Dolores nonumy et at dolores aliquyam dolores vero accusam diam no gubergren erat dolore elitr dolor. Luptatum consetetur erat cum clita lorem et erat lorem aliquyam duo sit molestie.\n",
+    "publishDate": "2022-12-25T06:32:46.2744013+00:00"
+}
+Request method:	PUT
+Request URI:	https://fakerestapi.azurewebsites.net/api/v1/Books/2
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=2
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "id": "2",
+    "title": "Book",
+    "description": "string",
+    "pageCount": "19",
+    "excerpt": "string",
+    "publishDate": "2022-12-26"
+}
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8; v=1.0
+Date: Tue, 27 Dec 2022 06:32:47 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+api-supported-versions: 1.0
+
+{
+    "id": 2,
+    "title": "Book",
+    "description": "string",
+    "pageCount": 19,
+    "excerpt": "string",
+    "publishDate": "2022-12-26T00:00:00"
+}
+Request method:	DELETE
+Request URI:	https://fakerestapi.azurewebsites.net/api/v1/Books/2
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=2
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Content-Length: 0
+Date: Tue, 27 Dec 2022 06:32:48 GMT
+Server: Kestrel
+api-supported-versions: 1.0
